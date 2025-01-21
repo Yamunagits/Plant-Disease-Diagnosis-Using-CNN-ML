@@ -1,0 +1,4 @@
+0 Bacterial
+1 Fungal
+2 Rust
+3 Virus
